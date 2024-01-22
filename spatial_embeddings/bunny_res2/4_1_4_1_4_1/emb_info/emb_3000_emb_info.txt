@@ -1,0 +1,4 @@
+              Dim     Copy
+Hyperbolic:   4       1
+Spherical:    4       1
+Euclidean:    4       1
